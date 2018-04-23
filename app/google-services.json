@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1020080877623",
+    "firebase_url": "https://smart-academic-activities.firebaseio.com",
+    "project_id": "smart-academic-activities",
+    "storage_bucket": "smart-academic-activities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020080877623:android:1914ac4752466ff0",
+        "android_client_info": {
+          "package_name": "com.smartacademic.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020080877623-5g0g2gjpmilvna5mag589epls97fi4gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfwWA1uV7nM9YOrLJtzYYX6EhEdHX8nU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

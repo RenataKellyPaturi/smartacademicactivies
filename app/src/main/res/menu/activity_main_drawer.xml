@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Enviar Certificado" />
+        <item
+            android:id="@+id/consulta"
+            android:icon="@drawable/ic_content_copy_black_24dp"
+            android:title="Consultar Horas" />
+        <item
+            android:id="@+id/sair"
+            android:icon="@drawable/ic_arrow_back_black_24dp"
+            android:title="Sair" />
+
+    </group>
+
+
+</menu>
